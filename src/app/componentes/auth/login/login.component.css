@@ -4,16 +4,11 @@
     margin: 100px 0;
 }
 
-.mat-form-field {
-    width: 100%;
+.card {
+    width: 50%;
     min-width: 300px;
 }
 
-mat-card-title,
-mat-card-content {
-    display: flex;
-    justify-content: center;
-}
 
 button{
     width: 100%;
